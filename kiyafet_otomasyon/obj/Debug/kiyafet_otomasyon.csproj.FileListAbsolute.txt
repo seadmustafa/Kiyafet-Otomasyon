@@ -1,0 +1,127 @@
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.csproj.GenerateResource.Cache
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form1.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form10.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form11.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form12.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form13.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form14.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form15.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form16.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form2.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form3.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form4.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form5.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form6.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form7.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form8.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form9.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Properties.Resources.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\bin\Debug\kiyafet_otomasyon.exe
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\bin\Debug\kiyafet_otomasyon.pdb
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.exe
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.pdb
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form17.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form18.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form19.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\bin\Debug\office.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon\kiyafet_otomasyon\bin\Debug\office.xml
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.exe
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.pdb
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\bin\Debug\kiyafet_otomasyon.exe
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\bin\Debug\kiyafet_otomasyon.pdb
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\bin\Debug\office.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\bin\Debug\office.xml
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form1.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form10.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form11.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form12.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form13.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form14.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form15.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form16.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form17.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form18.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form19.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form2.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form3.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form4.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form5.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form6.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form7.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form8.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form9.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Properties.Resources.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.csproj.GenerateResource.Cache
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.exe
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.pdb
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\bin\Debug\kiyafet_otomasyon.exe
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\bin\Debug\kiyafet_otomasyon.pdb
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\bin\Debug\office.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\bin\Debug\office.xml
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form1.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form10.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form11.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form12.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form13.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form14.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form15.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form16.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form17.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form18.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form2.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form3.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form4.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form5.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form6.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form7.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form8.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form9.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Properties.Resources.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.csproj.GenerateResource.Cache
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V1 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form19.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.exe
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.pdb
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form1.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form10.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form11.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form12.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form13.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form14.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form15.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form16.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form17.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form18.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form19.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form2.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form20.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form3.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form4.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form5.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form6.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form7.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form8.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form9.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Properties.Resources.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.csproj.GenerateResource.Cache
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\bin\Debug\kiyafet_otomasyon.exe
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\bin\Debug\kiyafet_otomasyon.pdb
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\bin\Debug\office.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\bin\Debug\office.xml
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form21.resources
+C:\Users\by eLeKtRoKiNg\Desktop\VTS Ödev\VTYS ödevi\kiyafet_otomasyon_V2 22.12.15\kiyafet_otomasyon\obj\Debug\kiyafet_otomasyon.Form22.resources
