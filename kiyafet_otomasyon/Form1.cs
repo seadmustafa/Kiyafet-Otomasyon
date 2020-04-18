@@ -83,8 +83,8 @@ namespace kiyafet_otomasyon
             frm22.frm1 = this;
            
         }
-
-        public SqlConnection bag = new SqlConnection(@"Data Source=.\EK_2014; Initial Catalog=kiyafet_otomasyon_data ;Integrated Security=yes");
+        //public SqlConnection bag = new SqlConnection(@"Data Source=.\EK_2014; Initial Catalog=kiyafet_otomasyon_data ;Integrated Security=yes");  
+        public SqlConnection bag = new SqlConnection(@"Data Source= "C:\Program Files\Microsoft SQL Server\MSSQL12.MSI\MSSQL\DATA"; Initial Catalog=kiyafet_otomasyon_data ;Integrated Security=yes");
         //bağlantı değişkeni tanımlanıyor
         public DataTable tabloMusteri = new DataTable();//sanal tablo değişkeni tanımlanıyor       
         public DataTable tabloUrun = new DataTable();//sanal tablo değişkeni tanımlanıyor       
